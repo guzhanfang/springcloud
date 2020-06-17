@@ -1,0 +1,4 @@
+com\gzf\bean\Dept.class
+com\gzf\service\DeptClientService.class
+com\gzf\service\DeptClientServiceFallbackFactory$1.class
+com\gzf\service\DeptClientServiceFallbackFactory.class
